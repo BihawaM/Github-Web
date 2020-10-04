@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Github-Web"
+    }
+  },
+  "defaultProject": "Github-Web",
+  "cli": {
+    "analytics": "61bca13d-666d-4260-8a2f-c693e5a182c5"
+  }
 }

@@ -1,0 +1,32 @@
+/* .card {
+    max-width: 400px;
+  }
+  
+.header-image {
+    
+    background-size: cover;
+} */
+
+.content {
+    padding: 16px;
+}
+
+.content > mat-card {
+    width: 600px;
+    background-color: cadetblue;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+.head{
+    background-color: teal;
+}
+
+h1{
+    font-family: serif;
+}
+
+mat-card-actions{
+    font-size: x-large;
+}
+
