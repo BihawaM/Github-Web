@@ -3,8 +3,9 @@
   <div *ngFor="let user of user">
     <div layout="row" layout-sm="column">
 
-      <div flex>
+      <div flex >
         <div class="row">
+          <div layout="row" layout-sm="column">
           <mat-toolbar class="head">
             <h1>USER</h1>
           </mat-toolbar>
@@ -27,8 +28,8 @@
       </div>
       <!-- <div class="row col-md-6"> -->
 
-      <div flex>
-        <div class="row">
+      <div flex-column>
+        <div class="column">
             <div *ngFor="let repo of repo">
           <mat-toolbar class="head">
             <h1>REPO</h1>
@@ -57,5 +58,6 @@
             </mat-card>
 
          </div>
+         
 
         

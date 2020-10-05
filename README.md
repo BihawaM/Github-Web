@@ -1,4 +1,4 @@
-<!-- # Github-Web
+# Github-Web
 
 ## AUTHOR
 ### [Bihawa](https://github.com/BihawaM)
@@ -17,19 +17,17 @@
 
 > Click on the live link.
 
-> .
+> Press home which will take you to the users profile.
 
-> Enter a quote of your choice.
+> Press search which will take you to the homepage.
 
-> Click on the publish button to add quote.
+> Press github repo which will take you to the homepage.
 
- NB// Dont leave any field empty
  
  EXAMPLE
  
  > Bihawa
  
- > Success is not for the chosen few but for the few who have chosen it,
 
 ## Technologies used
   > `` html``
@@ -41,4 +39,4 @@
   > ``Angular Material``
  
 ## License
-[MIT](https://github.com/BihawaM/Github-Web/blob/master/LICENSE.md) -->
+[MIT](https://github.com/BihawaM/Github-Web/blob/master/LICENSE.md)

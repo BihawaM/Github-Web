@@ -1,12 +1,3 @@
-/* .card {
-    max-width: 400px;
-  }
-  
-.header-image {
-    
-    background-size: cover;
-} */
-
 .content {
   padding: 39px;
  
@@ -31,7 +22,6 @@ mat-card-actions {
   font-size: x-large;
 }
 
-
 a {
   font-weight: bold;
   color: darkblue;
@@ -49,6 +39,3 @@ mat-card-title {
   font-weight: bold;
 }
 
-/* mat-card-image{
-    width: 200px;
-} */
