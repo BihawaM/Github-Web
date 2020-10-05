@@ -7,7 +7,7 @@
     background-size: cover;
 } */
 
-/* .content {
+.content {
   padding: 39px;
  
 }
@@ -47,7 +47,7 @@ mat-card-title {
   font-family: serif;
   font-size: 23px;
   font-weight: bold;
-} */
+}
 
 /* mat-card-image{
     width: 200px;
