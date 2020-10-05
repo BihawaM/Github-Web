@@ -7,26 +7,48 @@
     background-size: cover;
 } */
 
-.content {
-    padding: 16px;
+/* .content {
+  padding: 39px;
+ 
 }
 
-.content > mat-card {
-    width: 600px;
-    background-color: cadetblue;
-    font-family: monospace;
-    font-weight: bolder;
+.content>mat-card {
+  background-color: cadetblue;
+  font-family: monospace;
+  font-weight: bolder;
 }
 
-.head{
-    background-color: teal;
+.head {
+  background-color: teal;
 }
 
-h1{
-    font-family: serif;
+h1 {
+  font-size: 23px;
+  font-weight: bold;
 }
 
-mat-card-actions{
-    font-size: x-large;
+mat-card-actions {
+  font-size: x-large;
 }
 
+
+a {
+  font-weight: bold;
+  color: darkblue;
+  font-size: 18px;
+}
+
+mat-card-content,
+p {
+  font-size: 23px;
+}
+
+mat-card-title {
+  font-family: serif;
+  font-size: 23px;
+  font-weight: bold;
+} */
+
+/* mat-card-image{
+    width: 200px;
+} */
