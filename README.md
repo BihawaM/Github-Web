@@ -1,27 +1,44 @@
-# GithubWeb
+<!-- # Github-Web
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+## AUTHOR
+### [Bihawa](https://github.com/BihawaM)
 
-## Development server
+### [Figma](https://www.figma.com/file/R1vP4BOyKTDtQWhyDGAR7p/Github-Web?node-id=0%3A1)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
+  This is a website that uses angular to create github project.
 
-## Code scaffolding
+## BDD
+> Enter a name in the search box.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> Click search button to search for users with the name provided in search box.
 
-## Build
+> Click on the guthub link,it'll take you to the persons github.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+> Click on the live link.
 
-## Running unit tests
+> .
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> Enter a quote of your choice.
 
-## Running end-to-end tests
+> Click on the publish button to add quote.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+ NB// Dont leave any field empty
+ 
+ EXAMPLE
+ 
+ > Bihawa
+ 
+ > Success is not for the chosen few but for the few who have chosen it,
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Technologies used
+  > `` html``
+  > `` Css ``
+  > `` Typescript ``
+  > `` Js ``
+  > ``Angular``
+  > ``Bootstrap``
+  > ``Angular Material``
+ 
+## License
+[MIT](https://github.com/BihawaM/Github-Web/blob/master/LICENSE.md) -->
