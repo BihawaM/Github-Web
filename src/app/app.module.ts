@@ -13,6 +13,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { DateCountPipe } from './date-count.pipe';
 import { FormComponent } from './form/form.component';
+import { MyProfileComponent } from './my-profile/my-profile.component';
 
 
 
@@ -24,7 +25,8 @@ import { FormComponent } from './form/form.component';
     NavbarComponent,
     GithubComponent,
     DateCountPipe,
-    FormComponent
+    FormComponent,
+    MyProfileComponent
   ],
   imports: [
     BrowserModule,
